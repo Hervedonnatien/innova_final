@@ -10,20 +10,25 @@
                     <ul class="list-unstyled">
                         <li><a href="{{ route('home') }}">Home</a></li>
                         <li class="active">Contact</li>
+                        
                     </ul>
-                    <h1 class="title h2">Contact</h1>
+                    <h2 class="title h2">Contact</h2>
+                    <div class="section-heading heading-left">
+                <span class="subtitle"></span>
+                <p class="title" style="text-align: justify;">🚀Si vous souhaitez en savoir plus sur la façon dont nous pouvons vous aider </br> 
+                dans votre projet de transformation numérique, 
+ou sur ce que la transformation </br> numérique peut apporter à votre entreprise, contactez-nous. 
+</br> Nous sommes une agence de transformation numérique toujours prête à discuter✅...</p>
+           
+            </div>
+                    <p></p>
                 </div>
             </div>
             <ul class="shape-group-8 list-unstyled">
-                <li class="shape shape-1" data-sal="slide-right" data-sal-duration="500" data-sal-delay="100">
-                    <img src="{{ asset('assets/media/others/bubble-9.png') }}" alt="Bubble">
-                </li>
                 <li class="shape shape-2" data-sal="slide-left" data-sal-duration="500" data-sal-delay="200">
                     <img src="{{ asset('assets/media/others/bubble-17.png') }}" alt="Bubble">
                 </li>
-                <li class="shape shape-3" data-sal="slide-up" data-sal-duration="500" data-sal-delay="300">
-                    <img src="{{ asset('assets/media/others/line-4.png') }}" alt="Line">
-                </li>
+                
             </ul>
         </div>
 @endsection
@@ -37,10 +42,10 @@
                 <div class="row">
                     <div class="col-xl-5 col-lg-6">
                         <div class="contact-form-box shadow-box mb--30">
-                            <h3 class="title">Get a free Keystroke quote now</h3>
+                            <h3 class="title">Vous avez des projets?</h3>
                             <form method="POST" action="https://axilthemes.com/demo/template/abstrak/mail.php" class="axil-contact-form">
                                 <div class="form-group">
-                                    <label>Name</label>
+                                    <label>Nom</label>
                                     <input type="text" class="form-control" name="contact-name">
                                 </div>
                                 <div class="form-group">
@@ -48,29 +53,29 @@
                                     <input type="email" class="form-control" name="contact-email">
                                 </div>
                                 <div class="form-group">
-                                    <label>Company</label>
+                                    <label>Entreprise</label>
                                     <input type="text" class="form-control" name="contact-company">
                                 </div>
                                 <div class="form-group mb--40">
-                                    <label>How can we help you?</label>
+                                    <label>Comment pouvons-nous vous aider?</label>
                                     <textarea name="contact-message" id="contact-message" class="form-control textarea" cols="30" rows="4"></textarea>
                                 </div>
                                 <div class="form-group">
-                                    <button type="submit" class="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Get Pricing Now</button>
+                                    <button type="submit" class="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn"><strong>Envoyer</strong></button>
                                 </div>
                             </form>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 offset-xl-1">
                         <div class="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
-                            <h4 class="title">Phone</h4>
-                            <p>Our customer care is open from Mon-Fri, 10:00 am to 6:00 pm</p>
-                            <h4 class="phone-number"><a href="tel:1234567890">(123) 456 7890</a></h4>
+                            <h4 class="title">Téléphone</h4>
+                            <p></p>
+                            <h4 class="phone-number"><a href="tel:1234567890">+261 34 40 079 99</a></h4>
                         </div>
                         <div class="contact-info mb--30">
                             <h4 class="title">Email</h4>
-                            <p>Our support team will get back to in 48-h during standard business hours.</p>
-                            <h4 class="phone-number"><a href="mailto:info@innova-freelance.com">info@innova-freelance.com</a></h4>
+                            <p></p>
+                            <h4 class="phone-number"><a href="mailto:info@innova-freelance.com">innovafreelance@gmail.com</a></h4>
                         </div>
                     </div>
                 </div>
@@ -82,65 +87,4 @@
             </ul>
         </section>
 
-        <!--=====================================-->
-        <!--=       Location  Area Start        =-->
-        <!--=====================================-->
-        <section class="section section-padding bg-color-dark overflow-hidden">
-            <div class="container">
-                <div class="section-heading heading-light-left">
-                    <span class="subtitle">Find Us</span>
-                    <h2 class="title">Our office</h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="office-location">
-                            <div class="thumbnail">
-                                <img src="{{ asset('assets/media/others/location-1.png') }}" alt="Office">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Virginia-HQ</h4>
-                                <p>435 Pouros Locks United States</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="office-location">
-                            <div class="thumbnail">
-                                <img src="{{ asset('assets/media/others/location-2.png') }}" alt="Office">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Nevada</h4>
-                                <p>46 Watsica Creek Suite 071 United States</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="office-location">
-                            <div class="thumbnail">
-                                <img src="{{ asset('assets/media/others/location-3.png') }}" alt="Office">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Columbia</h4>
-                                <p>7140 Wehner Tunnel Washington, D.C</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="office-location">
-                            <div class="thumbnail">
-                                <img src="{{ asset('assets/media/others/location-4.png') }}" alt="Office">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">New Mexico</h4>
-                                <p>10 Maggie Valleys United States</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <ul class="shape-group-11 list-unstyled">
-                <li class="shape shape-1"><img src="{{ asset('assets/media/others/line-6.png') }}" alt="line"></li>
-                <li class="shape shape-2"><img src="{{ asset('assets/media/others/circle-3.png') }}" alt="line"></li>
-            </ul>
-        </section>
 @endsection

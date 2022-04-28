@@ -4,7 +4,7 @@
     <!-- Meta Data -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Innova Freelance | Digital Agency</title>
+    <title>Innova Freelance - Digital web agency</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -66,28 +66,16 @@
                             </div>
                             <ul class="mainmenu">
                                 <li>
-                                    <a href="{{ route('home') }}">Digital Agency</a>
+                                    <a href="{{ route('home') }}">Accueil</a>
                                 </li>
                                 <li>
-                                    <a href="{{ route('service') }}">Services</a>
+                                    <a href="{{ route('service') }}">Expertises</a>
                                 </li>
                                 <li>
                                     <a href="{{ route('portfolio') }}">Portfolio</a>
                                 </li>
-                                <li class="menu-item-has-children">
-                                    <a href="javascript:void(0);">Pages</a>
-                                    <ul class="axil-submenu">
-                                        <li><a href="{{ route('about') }}">About Us</a></li>
-                                        <li><a href="{{ route('case-study') }}">Case Study</a></li>
-                                        <li><a href="{{ route('team') }}">Team</a></li>
-                                        <li><a href="{{ route('client') }}">Our Clients</a></li>
-                                        <li><a href="{{ route('testimonial') }}">Testimonial</a></li>
-                                        <li><a href="{{ route('not-found') }}">404 Page</a></li>
-                                        <li><a href="{{ route('coming-soon') }}">Coming Soon</a></li>
-                                    </ul>
-                                </li>
                                 <li>
-                                    <a href="{{ route('blog') }}">Blog</a>
+                                    <a href="{{ route('team') }}">Equipe</a>
                                 </li>
                                 <li><a href="{{ route('contact') }}">Contact</a></li>
                             </ul>
@@ -164,12 +152,12 @@
                                     <h6 class="widget-title">Services</h6>
                                     <div class="footer-menu-link">
                                         <ul class="list-unstyled">
-                                            <li><a href="{{ route('service') }}">Logo &amp; Branding</a></li>
-                                            <li><a href="{{ route('service') }}">Website Development</a></li>
-                                            <li><a href="{{ route('service') }}">Mobile App Development</a></li>
-                                            <li><a href="{{ route('service') }}">Search Engine Optimization</a></li>
-                                            <li><a href="{{ route('service') }}">Pay-Per-Click</a></li>
-                                            <li><a href="{{ route('service') }}">Social Media Marketing</a></li>
+                                            <li><a href="{{ route('service') }}">Développement web</a></li>
+                                            <li><a href="{{ route('service') }}">Développement mobile</a></li>
+                                            <li><a href="{{ route('service') }}">Développement Desktop</a></li>
+                                            <li><a href="{{ route('service') }}">CMS</a></li>
+                                            <li><a href="{{ route('service') }}">Rédaction web SEO</a></li>
+                                            <li><a href="{{ route('service') }}">Saisie des données (OS)</a></li>
                                         </ul>
                                     </div>
                                 </div>
