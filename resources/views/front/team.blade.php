@@ -41,7 +41,7 @@
                         <p class="mb--50">Ayant travaillé avec de nombreux clients dans de nombreux secteurs et industries, nous pouvons 
                             vous aider à naviguer sur le marché dans le cas où vous avez peu ou pas d’équipe pour le faire. Nous adapterons notre équipe à votre activité et à vos projets, et nous en intégrerons d'autres si nécessaire. Que vos besoins soient entièrement spécifiés ou qu'ils n'en soient encore qu'au stade des idées, nous serions ravis 
                             de discuter de la manière dont nous pouvons vous aider. Vous avez le choix de la boisson.</p>
-                        <a href="{{ route('contact') }}" class="axil-btn btn-large btn-fill-primary"><strong>Nous contacter!</strong></a>
+                        <a href="{{ route('team') }}" class="axil-btn btn-large btn-fill-primary"><strong>Nous contacter!</strong></a>
                     </div>
                 </div>
                 <div class="col-lg-6 offset-xl-1">
@@ -180,7 +180,7 @@
                         <div class="content">
                             <h4 class="title"><a href="{{ route('team') }}">IDDIANE Ingrid</a></h4>
                             <span class="designation">Chef de projet</span>
-                            <span class="designation">Opérateur de saisie & Assistante juridique</span>
+                            <span class="designation">en saisie des données & Assistante juridique</span>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                         <div class="content">
                             <h4 class="title"><a href="{{ route('team') }}">RAHARISATA Helina</a></h4>
                             <span class="designation">Chef de projet</span>
-                            <span class="designation">Rédaction de contenu web</span>
+                            <span class="designation">en rédaction de contenu web</span>
                         </div>
                     </div>
                 </div>
@@ -207,33 +207,4 @@
             <li class="shape shape-3"><img src="{{ asset('assets/media/others/bubble-5.png') }}" alt="Circle"></li>
         </ul>
     </section>
-    <!--=====================================-->
-    <!--=          About  Area Start        =-->
-    <!--=====================================-->
-    <section class="section section-padding-equal">
-        <div class="container">
-            <div class="section-heading">
-                <span class="subtitle">Experts in field</span>
-                <h2 class="title">Design startup <br> movement</h2>
-            </div>
-            <div class="about-expert">
-                <div class="thumbnail">
-                    <img src="{{ asset('assets/media/about/about-1.png') }}" alt="Thumbnail">
-                    <div class="popup-video">
-                        <a href="https://www.youtube.com/watch?v=1iIZeIy7TqM" class="play-btn popup-youtube"><i class="fas fa-play"></i></a>
-                    </div>
-                </div>
-                <ul class="frame-shape">
-                    <li class="shape shape-1"><img src="{{ asset('assets/media/about/frame-1.png') }}" alt="Frame"></li>
-                    <li class="shape shape-2"><img src="{{ asset('assets/media/about/frame-2.png') }}" alt="Frame"></li>
-                </ul>
-            </div>
-        </div>
-        <ul class="shape-group-16 list-unstyled">
-            <li class="shape shape-1"><img src="{{ asset('assets/media/others/circle-2.png') }}" alt="circle"></li>
-            <li class="shape shape-2"><img src="{{ asset('assets/media/others/bubble-2.png') }}" alt="Line"></li>
-            <li class="shape shape-3"><img src="{{ asset('assets/media/others/bubble-1.png') }}" alt="Line"></li>
-        </ul>
-    </section>
-
 @endsection

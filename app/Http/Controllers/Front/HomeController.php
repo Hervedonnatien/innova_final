@@ -47,6 +47,30 @@ class HomeController extends Controller
         return view('front.portfolio');
     }
 
+    public function portfolio1(){
+        return view('front.portfolio1');
+    }
+
+    public function portfolio2(){
+        return view('front.portfolio2');
+    }
+
+    public function portfolio3(){
+        return view('front.portfolio3');
+    }
+
+    public function portfolio4(){
+        return view('front.portfolio4');
+    }
+
+    public function portfolio5(){
+        return view('front.portfolio5');
+    }
+
+    public function portfolio6(){
+        return view('front.portfolio6');
+    }
+
     public function portfolioDetail($slug){
         return view('front.single-portfolio');
     }

@@ -28,91 +28,65 @@
                 <div class="col">
                     <div class="project-grid">
                         <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
+                            <a href="https://www.kicklabel.studio/">
                                 <img src="{{ asset('assets/media/project/project-1.png') }}" alt="project">
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Creative Agency</a></h4>
-                            <span class="subtitle">Full Branding</span>
+                            <h4 class="title"><a href="https://www.kicklabel.studio/">kick label</a></h4>
+                            <span class="subtitle">Plateforme de distribution de music (deezer,soundcloud,spotify, etc)</span>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="project-grid">
                         <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
+                            <a href="https://www.stock-inventory.net/">
                                 <img src="{{ asset('assets/media/project/project-2.png') }}" alt="project">
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Digital Marketing</a></h4>
-                            <span class="subtitle">Logo, Website & App</span>
+                            <h4 class="title"><a href="https://www.stock-inventory.net/">Stock inventory</a></h4>
+                            <span class="subtitle">Plateforme de gestion d'un marketplace (stock, produit, vente, achat, etc)</span>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="project-grid">
                         <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
+                            <a href="https://aptekagest.com/login?fbclid=IwAR03uXzEjUaElLl8vRHn3TMO4uq1Fri9KMoRNxuDW6JXsYZ44ngAk1h-vkk">
                                 <img src="{{ asset('assets/media/project/project-3.png') }}" alt="project">
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Digital Agency</a></h4>
-                            <span class="subtitle">Website, UI/UX</span>
+                            <h4 class="title"><a href="https://aptekagest.com/login?fbclid=IwAR03uXzEjUaElLl8vRHn3TMO4uq1Fri9KMoRNxuDW6JXsYZ44ngAk1h-vkk">aptekagest</a></h4>
+                            <span class="subtitle">Plateforme ou application de gestion des pharmacies</span>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="project-grid">
                         <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
+                            <a href="https://gestionparking.innova-freelance.com/login?fbclid=IwAR2Mdy9WG9geOrPwfzo9rf5ZpMDLQDOILswMuouMsOHScv3840SA-rXxgAs">
                                 <img src="{{ asset('assets/media/project/project-4.png') }}" alt="project">
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Plan Management</a></h4>
-                            <span class="subtitle">Branding, Website, App</span>
+                            <h4 class="title"><a href="https://gestionparking.innova-freelance.com/login?fbclid=IwAR2Mdy9WG9geOrPwfzo9rf5ZpMDLQDOILswMuouMsOHScv3840SA-rXxgAs">TranscoPub</a></h4>
+                            <span class="subtitle">Application web pour la gestion de parking</span>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="project-grid">
                         <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
+                            <a href="https://personnel.innova-freelance.com/?fbclid=IwAR3W5EBj0EBb7oskJLmznanN7ycU9rROo9nAVysBHruXG6owA2nbrxN6uw4">
                                 <img src="{{ asset('assets/media/project/project-5.png') }}" alt="project">
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Social Engagement</a></h4>
-                            <span class="subtitle">Design, Development</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-grid">
-                        <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
-                                <img src="{{ asset('assets/media/project/project-1.png') }}" alt="project">
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Creative Agency</a></h4>
-                            <span class="subtitle">Full Branding</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-grid">
-                        <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
-                                <img src="{{ asset('assets/media/project/project-2.png') }}" alt="project">
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Digital Marketing</a></h4>
-                            <span class="subtitle">Logo, Website & App</span>
+                            <h4 class="title"><a href="https://personnel.innova-freelance.com/?fbclid=IwAR3W5EBj0EBb7oskJLmznanN7ycU9rROo9nAVysBHruXG6owA2nbrxN6uw4">Adiresiko</a></h4>
+                            <span class="subtitle">Application web pour la gestion des personnels</span>
                         </div>
                     </div>
                 </div>
@@ -124,74 +98,12 @@
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Technical SEO</a></h4>
-                            <span class="subtitle">Logo, Webapp, App</span>
+                            <h4 class="title"><a href="{{ route('portfolio') }}">E-varotra</a></h4>
+                            <span class="subtitle">Plateforme E-commerce (en cours...)</span>
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="project-grid">
-                        <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
-                                <img src={{ asset('assets/media/project/project-3.png') }}" alt="project">
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Digital Agency</a></h4>
-                            <span class="subtitle">Website, UI/UX</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-grid">
-                        <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
-                                <img src="{{ asset('assets/media/project/project-4.png') }}" alt="project">
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Plan Management</a></h4>
-                            <span class="subtitle">Branding, Website, App</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-grid">
-                        <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
-                                <img src="{{ asset('assets/media/project/project-6.png') }}" alt="project">
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Technical SEO</a></h4>
-                            <span class="subtitle">Logo, Webapp, App</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="project-grid">
-                        <div class="thumbnail">
-                            <a href="{{ route('portfolio') }}">
-                                <img src="{{ asset('assets/media/project/project-5.png') }}" alt="project">
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h4 class="title"><a href="{{ route('portfolio') }}">Social Engagement</a></h4>
-                            <span class="subtitle">Design, Development</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="pagination justify-content-center mt--20">
-                <ul>
-                    <li><a class="prev page-numbers" href="#"><i class="fal fa-arrow-left"></i></a></li>
-                    <li><a href="#" class="page-numbers current">1</a></li>
-                    <li><a class="page-numbers" href="#">2</a></li>
-                    <li><a class="page-numbers" href="#">3</a></li>
-                    <li><a class="page-numbers" href="#">4</a></li>
-                    <li><a class="page-numbers" href="#">5</a></li>
-                    <li><a class="next page-numbers" href="#"><i class="fal fa-arrow-right"></i></a></li>
-                </ul>
+               
             </div>
         </div>
     </section>

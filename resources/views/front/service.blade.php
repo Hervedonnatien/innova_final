@@ -67,9 +67,9 @@
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Prototypage</a></h5>
-                                    <p style="text-align: justify;">Après avoir compris ce que les utilisateurs attendent de l'application, nous passons au processus de prototypage. Une interface bien conçue est la garantie que l'utilisateur saura rapidement comment l'application l'aidera à résoudre son problème. 
-Vous avez la possibilité d'examiner la fonctionnalité de la future application sans la partie logicielle.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">Après avoir compris ce que les utilisateurs attendent de l'application, nous passons au processus de prototypage. Une interface bien conçue est la garantie que l'utilisateur saura rapidement comment l'application l'aidera à résoudre son problème. 
+Vous avez la possibilité d'examiner la fonctionnalité de la future application sans la partie logicielle.</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -80,9 +80,9 @@ Vous avez la possibilité d'examiner la fonctionnalité de la future application
                                 </div>
                                 <div class="content">
                                     <h5> <a href="{{ route('service') }}">Conception du produit</a></h5>
-                                    <p style="text-align: justify;">Dessinez le design de tous les écrans et états des éléments. Nous utilisons les recommandations de Google et d'Apple pour concevoir l'application. Nous veillons à ce que les solutions graphiques 
-                                        soient compréhensibles et pratiques. Vous obtenez un design qui vous distinguera de la concurrence.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">Dessinez le design de tous les écrans et états des éléments. Nous utilisons les recommandations de Google et d'Apple pour concevoir l'application. Nous veillons à ce que les solutions graphiques 
+                                        soient compréhensibles et pratiques. Vous obtenez un design qui vous distinguera de la concurrence.</span>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -93,9 +93,9 @@ Vous avez la possibilité d'examiner la fonctionnalité de la future application
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Élaboration des spécifications techniques</a></h5>
-                                    <p style="text-align: justify;">Le cahier des charges est un document élaboré sur la base d'un prototype interactif et d'un design de produit 
-                                        approuvés dont les développeurs, les ingénieurs d'essai ont besoin pour concevoir et tester le projet.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">Le cahier des charges est un document élaboré sur la base d'un prototype interactif et d'un design de produit 
+                                        approuvés dont les développeurs, les ingénieurs d'essai ont besoin pour concevoir et tester le projet.</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -106,9 +106,9 @@ Vous avez la possibilité d'examiner la fonctionnalité de la future application
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Programmation et test de l'application</a></h5>
-                                    <p style="text-align: justify;">La programmation d'une ressource web ou d'une application mobile est réalisée selon la méthodologie SCRUM - planification 
-                                        des tâches étape par étape et répartition de leur exécution en sprints.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">La programmation d'une ressource web ou d'une application mobile est réalisée selon la méthodologie SCRUM - planification 
+                                        des tâches étape par étape et répartition de leur exécution en sprints.</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -119,9 +119,9 @@ Vous avez la possibilité d'examiner la fonctionnalité de la future application
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Rétrospective</a></h5>
-                                    <p style="text-align: justify;">Démonstration au client des résultats pour une durée déterminée. L'équipe analyse 
-                                        les risques et les problèmes, termine le sprint, optimise le développement ultérieur de l'application.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">Démonstration au client des résultats pour une durée déterminée. L'équipe analyse 
+                                        les risques et les problèmes, termine le sprint, optimise le développement ultérieur de l'application.</span>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -132,9 +132,9 @@ Vous avez la possibilité d'examiner la fonctionnalité de la future application
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Déploiement ou la mise en production</a></h5>
-                                    <p style="text-align: justify;">Une étape éssentielle après le développement de l'application est la phase de déploiement. Nos ingénieurs qualités vous garantiront la performance 
-                                        et assureront la qualité de votre application une fois fini pour assurer son bon fonctionnement.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">Une étape éssentielle après le développement de l'application est la phase de déploiement. Nos ingénieurs qualités vous garantiront la performance 
+                                        et assureront la qualité de votre application une fois fini pour assurer son bon fonctionnement.</span>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -155,12 +155,11 @@ Vous avez la possibilité d'examiner la fonctionnalité de la future application
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">WordPress</a></h5>
-                                    <p style="text-align: justify;">WordPress vous offre la flexibilité et la liberté de créer n'importe quel type de site web (boutique en ligne, site de vente aux enchères, site d'adhésion, etc.)
+                                    <span style="text-align: justify;">WordPress vous offre la flexibilité et la liberté de créer n'importe quel type de site web (boutique en ligne, site de vente aux enchères, site d'adhésion, etc.)
 
-WordPress est vraiment bien conçu pour l'optimisation des moteurs de recherche (SEO). Il est facile de créer des URL, des catégories et des balises adaptées au référencement pour vos articles. Vous pouvez également choisir parmi de nombreux plugins de référencement pour vous aider à en faire plus.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+WordPress est vraiment bien conçu pour l'optimisation des moteurs de recherche (SEO). </br></br>
+</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -171,10 +170,9 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</p>
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Drupal</a></h5>
-                                    <p style="text-align: justify;">Drupal est une autre plateforme CMS open source. C'est le CMS qui se cache derrière certains sites web importants.
-Il existe de nombreux modules différents que vous pouvez ajouter à votre site (ils fonctionnent comme des plugins WordPress).
-La gestion des utilisateurs est facile, avec un système intégré où vous pouvez créer de nouveaux rôles et spécifier leurs permissions.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">Drupal est une autre plateforme CMS open source. C'est le CMS qui se cache derrière certains sites web importants.
+Il existe de nombreux modules différents que vous pouvez ajouter à votre site (ils fonctionnent comme des plugins WordPress).</br></br></br> </span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -185,9 +183,9 @@ La gestion des utilisateurs est facile, avec un système intégré où vous pouv
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Joomla</a></h5>
-                                    <p style="text-align: justify;">Joomla vous offre une grande flexibilité et de nombreuses options. C'est un bon choix si vous voulez construire quelque chose de compliqué ou sur mesure.
-Joomla peut être utilisé pour gérer un magasin de commerce électronique, car des extensions sont disponibles à cet effet.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+                                    <span style="text-align: justify;">Joomla vous offre une grande flexibilité et de nombreuses options. C'est un bon choix si vous voulez construire quelque chose de compliqué ou sur mesure.
+Joomla peut être utilisé pour gérer un magasin de commerce électronique, car des extensions sont disponibles à cet effet.</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -198,11 +196,10 @@ Joomla peut être utilisé pour gérer un magasin de commerce électronique, car
                                 </div>
                                 <div class="content">
                                     <h5 class="title"> <a href="{{ route('service') }}">Prestashop</a></h5>
-                                    <p style="text-align: justify;">PrestaShop est une plateforme CMS eCommerce open source. Vous l'hébergez vous-même, vous pouvez donc l'installer sur n'importe quel hôte web qui le supporte.
+                                    <span style="text-align: justify;">PrestaShop est une plateforme CMS eCommerce open source. Vous l'hébergez vous-même, vous pouvez donc l'installer sur n'importe quel hôte web qui le supporte.
 Vous n'aurez pas à payer de supplément au fur et à mesure que votre boutique se développe (sauf si vous devez mettre à niveau votre plan d'hébergement).
-Il existe de nombreux modules PrestaShop, vous pouvez donc ajouter de nouvelles fonctionnalités facilement.
-Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un plan d'hébergement partagé bon marché.</p>
-                                    <a href="{{ route('service') }}" class="more-btn">Find out more</a>
+</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -222,10 +219,10 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-34.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-marketing.blade.php">Animation éditoriale de blogs</a></h5>
-                                    <p style="text-align: justify;">Nous rédigeons des textes personnalisés pour animer vos blogs. Nos rédacteurs mobilisent toutes leurs ressources 
-                                        afin de garantir la livraison des textes de meilleure qualité.</p>
-                                    <a href="service-marketing.blade.php" class="more-btn">Find out more</a>
+                                    <h5 class="title"> <a href="service">Animation éditoriale de blogs</a></h5>
+                                    <span style="text-align: justify;">Nous rédigeons des textes personnalisés pour animer vos blogs. Nos rédacteurs mobilisent toutes leurs ressources 
+                                        afin de garantir la livraison des textes de meilleure qualité.</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -235,11 +232,11 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-35.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-marketing.blade.php">Rédaction de pages de sites web</a></h5>
-                                    <p style="text-align: justify;">Nos rédacteurs sont là pour vous assurer la rédaction du contenu de votre site web. Nous vous garantissons des 
+                                    <h5 class="title"> <a href="service">Rédaction de pages de sites web</a></h5>
+                                    <span style="text-align: justify;">Nos rédacteurs sont là pour vous assurer la rédaction du contenu de votre site web. Nous vous garantissons des 
                                         textes de qualités et optimisés adaptés à vos besoins pour une meilleure visibilité.
-                                    </p>
-                                    <a href="service-marketing.blade.php" class="more-btn">Find out more</a>
+                                    </span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -249,11 +246,11 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-36.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-marketing.blade.php">Rédaction de fiches-produits pour les sites e-commerce</a></h5>
-                                    <p style="text-align: justify;">Nous rédigons des articles pour vos produits. Nous vous garantissons une meilleure visibilité pour votre marque et vos produits 
+                                    <h5 class="title"> <a href="service">Rédaction de fiches-produits pour les sites e-commerce</a></h5>
+                                    <span style="text-align: justify;">Nous rédigons des articles pour vos produits. Nous vous garantissons une meilleure visibilité pour votre marque et vos produits 
                                         pour attirer plus d'audiences grâce aux rédactions de qualité que nous vous livrons.
-                                    </p>
-                                    <a href="service-marketing.blade.php" class="more-btn">Find out more</a>
+                                    </span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -263,10 +260,10 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-37.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-marketing.blade.php">Réécriture de contenu</a></h5>
-                                    <p style="text-align: justify;">Nous assurons également la réécriture de vos textes pour apporter 
-                                        de plus de valeurs et une meilleure lecture pour vos cibles.</p>
-                                    <a href="service-marketing.blade.php" class="more-btn">Find out more</a>
+                                    <h5 class="title"> <a href="service">Réécriture de contenu</a></h5>
+                                    <span style="text-align: justify;">Nous assurons également la réécriture de vos textes pour apporter 
+                                        de plus de valeurs et une meilleure lecture pour vos cibles.</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -276,11 +273,11 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-38.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-marketing.blade.php">Correction de contenu</a></h5>
-                                    <p style="text-align: justify;">Nous prenons aussi en charge la correction de tous types de contenu. Nous disposons des
+                                    <h5 class="title"> <a href="service">Correction de contenu</a></h5>
+                                    <span style="text-align: justify;">Nous prenons aussi en charge la correction de tous types de contenu. Nous disposons des
                                         correcteurs compétents, passionnés et expérimentés pour assurer une meilleure qualité de tous vos contenus.
-                                    </p>
-                                    <a href="service-marketing.blade.php" class="more-btn">Find out more</a>
+                                    </span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -300,10 +297,10 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-39.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-business.blade.php">Données type caractère ou texte</a></h5>
-                                    <p style="text-align: justify;">Formées exclusivement de caractères alphabétiques, elles sont très utilisées dans la majorité des domaines, 
-                                    et ce sont également les plus faciles à saisir. Il peut être question de noms propres, de lieux… </p>
-                                    <a href="service-business.blade.php" class="more-btn">Find out more</a>
+                                    <h5 class="title"> <a href="service">Données type caractère ou texte</a></h5>
+                                    <span style="text-align: justify;">Formées exclusivement de caractères alphabétiques, elles sont très utilisées dans la majorité des domaines, 
+                                    et ce sont également les plus faciles à saisir. Il peut être question de noms propres, de lieux… </span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -313,10 +310,10 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-40.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-business.blade.php">Données numériques</a></h5>
-                                    <p style="text-align: justify;">Il est question ici de saisir des données composées exclusivement de chiffres. 
-                                    Nos opérateurs de saisie assurent le traitement de vos données numériques dans le temps convenu. </p>
-                                    <a href="service-business.blade.php" class="more-btn">Find out more</a>
+                                    <h5 class="title"> <a href="service">Données numériques</a></h5>
+                                    <span style="text-align: justify;">Il est question ici de saisir des données composées exclusivement de chiffres. 
+                                    Nos opérateurs de saisie assurent le traitement de vos données numériques dans le temps convenu.</br></br></br> </span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -326,10 +323,10 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-41.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-business.blade.php">Données monétaires</a></h5>
-                                    <p style="text-align: justify;">Nos opérateurs saisissent des montants en devise, avec un certain nombre de décimales, qui sont dans la majorité des cas limitées à 2 après la virgule. 
-                                    Ces données sont très utilisées dans le domaine de la comptabilité, des finances et dans le commerce.</p>
-                                    <a href="service-business.blade.php" class="more-btn">Find out more</a>
+                                    <h5 class="title"> <a href="service">Données monétaires</a></h5>
+                                    <span style="text-align: justify;">Nos opérateurs saisissent des montants en devise. 
+                                    Ces données sont très utilisées dans le domaine de la comptabilité, des finances et dans le commerce.</span>
+</br></br></br></br>
                                 </div>
                             </div>
                         </div>
@@ -339,10 +336,10 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-42.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-business.blade.php">Données date et heure</a></h5>
-                                    <p style="text-align: justify;">Les données type date sont variées, il peut s’agir de dates de naissance, d’échéance, 
-                                    d'événements historiques… Nos opérateurs de saisie respectent les formats connus selon votre demande. </p>
-                                    <a href="service-business.blade.php" class="more-btn">Find out more</a>
+                                    <h5 class="title"> <a href="service">Données date et heure</a></h5>
+                                    <span style="text-align: justify;">Les données type date sont variées, il peut s’agir de dates de naissance, d’échéance, 
+                                    d'événements historiques… Nos opérateurs de saisie respectent les formats connus selon votre demande. </span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -352,10 +349,10 @@ Il ne coûte pas cher de commencer avec PrestaShop, surtout si vous êtes sur un
                                     <img src="{{ asset('assets/media/icon/icon-97.png') }}" alt="icon">
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"> <a href="service-business.blade.php">Formules</a></h5>
-                                    <p style="text-align: justify;">Il existe des données englobant les données numériques 
-                                    et les données alphabétiques.Nous traitons également ce type de données en fonction de votre demande.</p>
-                                    <a href="service-business.blade.php" class="more-btn">Find out more</a>
+                                    <h5 class="title"> <a href="service">Formules</a></h5>
+                                    <span style="text-align: justify;">Il existe des données englobant les données numériques 
+                                    et les données alphabétiques.Nous traitons également ce type de données en fonction de votre demande.</br></br></span>
+
                                 </div>
                             </div>
                         </div>

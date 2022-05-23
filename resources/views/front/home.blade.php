@@ -10,13 +10,13 @@
                 <div class="col-lg-6">
                     <div class="banner-content" data-sal="slide-up" data-sal-duration="1000" data-sal-delay="100">
                         <h1 class="title">🌐Agence web digitale située à Madagascar.</h1>
-                        <span class="subtitle" style="text-align: justify;"><strong>Innova</strong> est une entreprise spécialisée dans la transformation digitale. Laissez-nous vous aider à enrichir vos offres numériques et à créer de nouveaux produits et services numériques. Ensemble, ils permettent la croissance et l'acquisition, et réduisent les risques.
+                        <span class="subtitle" style="text-align: justify;"><strong>Innova</strong> est une entreprise spécialisée dans la transformation digitale. Laissez-nous vous aider à enrichir vos offres numériques et à créer de nouveaux produits et services numériques. Ensemble, ces derniers permettent la croissance et l'acquisition, et réduisent les risques.
 
 Nous avons travaillé avec de grands noms pour renforcer leur présence numérique. Les projets diffèrent à chaque fois, mais l'objectif est commun : <strong>s'assurer que le numérique est utilisé pour créer un impact maximal pour l'organisation</strong>. 
 
 Quels que soient vos objectifs, même si vos plans ne sont pas encore totalement définis, contactez-nous pour découvrir ce qui nous distingue des autres fournisseurs de solutions de transformation numérique.
 📈.</span>
-                        <a href="{{ route('contact') }}" class="axil-btn btn-fill-primary btn-large"><strong>Nous contacter !</strong></a>
+                        <a href="{{ route('home') }}" class="axil-btn btn-fill-primary btn-large"><strong>Nous contacter !</strong></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -91,7 +91,7 @@ Quels que soient vos objectifs, même si vos plans ne sont pas encore totalement
                             <h5 class="title" style="text-align: justify;"> <a href="{{ route('service') }}p">Développement mobile</a></h5>
                             <p style="text-align: justify;">Nous développons pour vous des applications mobiles pour une meilleure interaction avec vos prospects ou clients. 
 
-                            </br>✔️Nous mettons à votre disposition <strong>nos experts en développement mobile</strong> pour la réalisation de votre aplication qui sera dotée d'un: </br>👉design très intuitif, et </br>👉réflète l'image de votre business et entreprise. 
+                            </br>✔️Nous mettons à votre disposition <strong>nos experts en développement mobile</strong> pour la réalisation de votre application qui sera dotée d'un: </br>👉design très intuitif, et </br>👉réflète l'image de votre business et entreprise. 
 </br>Le développement de votre <strong>application native ou hybride </strong> sera à notre porté.</p>
                             <a href="{{ route('service') }}p" class="more-btn">Voir plus</a>
                         </div>
@@ -122,12 +122,11 @@ Quels que soient vos objectifs, même si vos plans ne sont pas encore totalement
                             <h5 class="title" style="text-align: justify;"> <a href="{{ route('service') }}">CMS</a></h5>
                             <p style="text-align: justify;">Les CMS permettent à votre entreprise de rationaliser le contenu numérique et le processus de création. Vous pouvez personnaliser le site Web, 
                             afin qu'il réponde aux besoins précis de votre entreprise, et assurer la cohérence de l'apparence du site.
-Les CMS peuvent également être intégrés à d'autres applications commerciales, telles que les systèmes de gestion des actifs et de relation client. Vous pouvez également optimiser votre site web et 
-son contenu afin qu'il soit adapté aux mobiles et qu'il soit performant sur les moteurs de recherche. 
+Les CMS peuvent également être intégrés à d'autres applications commerciales, telles que les systèmes de gestion des actifs et de relation client.
 Pour satisfaire vos besoins nous mettons à votre disposition nos développeurs experts en CMS.
 </br>✔️Nous utilisons:<strong> WordPress, Drupal, Joomla, WooCommerce, etc </strong>
 </p>
-                            <a href="{{ route('service') }}" class="more-btn">Voir plus</a>
+                        <a href="{{ route('service') }}" class="more-btn">Voir plus</a>
                         </div>
                     </div>
                 </div>
@@ -198,7 +197,7 @@ Pour satisfaire vos besoins nous mettons à votre disposition nos développeurs 
                                     Nos expériences ainsi que nos compétences techniques vous garantissent des travaux de qualités et satisfaisants selon votre budget❤️.</p>
                                     <p style="text-align: justify;"><strong>🚀Nos challenges </strong></br>
                                     Les défis font parties du quotidien de notre entreprise. En tant que fournisseur de solutions de transformation numérique, nous travaillons avec vos systèmes pour vous aider à rendre vos processus et vos produits plus conviviaux sur le plan numérique et à faire en sorte qu'ils fonctionnent bien dans le monde connecté d'aujourd'hui🔥.</p>
-                                    <a href="{{ route('case-study') }}" class="axil-btn btn-fill-primary btn-large"><strong>Nous contacter !</strong></a>
+                                    <a href="{{ route('home') }}" class="axil-btn btn-fill-primary btn-large"><strong>Nous contacter !</strong></a>
                                 </div>
                                 
                             </div>
@@ -293,23 +292,21 @@ Pour satisfaire vos besoins nous mettons à votre disposition nos développeurs 
     <section class="section section-padding">
         <div class="container">
             <div class="section-heading heading-left">
-                <span class="subtitle">Testimonial</span>
-                <h2 class="title">From getting started</h2>
-                <p>Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet.</p>
+                <h2 class="title">Ce qu'ils disent de nous...</h2>
             </div>
             <div class="row">
                 <div class="col-lg-4" data-sal="slide-up" data-sal-duration="1000" data-sal-delay="100">
                     <div class="testimonial-grid active">
                         <span class="social-media"><img src="{{ asset('assets/media/icon/yelp-2.png') }}" alt="Yelp"></span>
-                        <p>“ Donec metus lorem, vulputate
-                            at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”</p>
+                        <p style="text-align: justify;">“ Travailler avec Innova était sans doute l'une de mes meilleures expériences en tant que partenaire de projet. 
+                            Ils m'ont accompagné dans la réalisation de mon projet dans les moindres détails. ”</p>
                         <div class="author-info">
                             <div class="thumb">
                                 <img src="{{ asset('assets/media/testimonial/testimonial-1.png') }}" alt="Google Review">
                             </div>
                             <div class="content">
-                                <span class="name">Darrell Steward</span>
-                                <span class="designation">Executive Chairman</span>
+                                <span class="name">Zou Anjaraniaina</span>
+                                <span>CEO of Fihary Soft</span>
                             </div>
                         </div>
                     </div>
@@ -317,31 +314,15 @@ Pour satisfaire vos besoins nous mettons à votre disposition nos développeurs 
                 <div class="col-lg-4" data-sal="slide-up" data-sal-duration="1000" data-sal-delay="200">
                     <div class="testimonial-grid">
                         <span class="social-media"><img src="{{ asset('assets/media/icon/google-2.png') }}" alt="google"></span>
-                        <p>“ Donec metus lorem, vulputate
-                            at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”</p>
+                        <p style="text-align: justify;">“ Innova est plus qu'une entreprise pour moi. C'est le fruit d'une vision qui est maintenant réalisée. 
+                            A présent, je peux aider plusieurs entreprises ainsi que des particuliers à projeter leurs visions à travers le digital. ”</p>
                         <div class="author-info">
                             <div class="thumb">
                                 <img src="{{ asset('assets/media/testimonial/testimonial-2.png') }}" alt="Google Review">
                             </div>
                             <div class="content">
-                                <span class="name">Savannah Nguyen</span>
-                                <span class="designation">Executive Chairman</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4" data-sal="slide-up" data-sal-duration="1000" data-sal-delay="300">
-                    <div class="testimonial-grid">
-                        <span class="social-media"><img src="{{ asset('assets/media/icon/fb-2.png') }}" alt="Facebook"></span>
-                        <p>“ Donec metus lorem, vulputate
-                            at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”</p>
-                        <div class="author-info">
-                            <div class="thumb">
-                                <img src="{{ asset('assets/media/testimonial/testimonial-3.png') }}" alt="Google Review">
-                            </div>
-                            <div class="content">
-                                <span class="name">Floyd Miles</span>
-                                <span class="designation">Executive Chairman</span>
+                                <span class="name">Hervé Donnatien</span>
+                                <span>CEO & Co-founder of Innova</span>
                             </div>
                         </div>
                     </div>
