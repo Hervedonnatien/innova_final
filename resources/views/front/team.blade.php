@@ -151,8 +151,8 @@
                         </div>
                         <div class="content">
                             <h4 class="title"><a href="{{ route('team') }}">RAZAFINDRAIBE Raphaël Benja</a></h4>
-                            <span class="designation">Co-Manager</span>
-                            <span class="designation">& Lead Developer</span>
+                            <span class="designation">Lead Developer</span>
+                            <span class="designation"></span>
                         </div>
                     </div>
                 </div>
